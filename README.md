@@ -7,4 +7,4 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝
 ```
 👋
-I used to work in the music industry in Spain as music producer but now I'm also a remote-based Software Engineer with interests ranging from AI, Decentralized systems and Entrepreneurship. Highly biased towards First Principles Thinking. I'm also a afficionate beekeeper on my free time. 🐝 
+I'm Omar, a Software Engineering student and Music producer. Currently doing a full-time CS & Engineering program in Chile, with special interests in AI, Machine Learning & Entrepreneurship. I'm passionate about tech, build products that users love and learning new things. Highly biased towards First Principles Thinking. I'm also a afficionate beekeeper on my free time. 🐝 
