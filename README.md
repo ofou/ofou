@@ -2,4 +2,8 @@
 
 # Hola, I'm Omar 👨🏻‍💻
 
-I'm a Computer Engineering student and Music producer. Currently doing a full-time CS & Engineering program in Chile, with special interests in AI, BCI & Startups. I'm passionate about tech, build products that users love and learning new things. Highly biased towards First Principles Thinking. I'm also an afficionate beekeeper on my free time. 🐝 
+I'm a Software Engineer by training, music producer and writer/editor. I consider myself a very creative person, I like to work in the intersection of tech and media. Currently, I'm passionate about applying tech, grit and creativity to create value for individuals and companies, plus having fun solving difficult problems along the way. I'm proficient with Full Stack Python (Django, Flask), AWS, Node.js, and React.js.
+
+Lately, I've been learning a lot about Startups especially in engineering and product development. I'm enthusiastic about high tech industries such as Artificial Intelligence, Brain-Computer Interfaces and Neurotechnology. I'm highly biased towards pragmatism, thinking outside-the-box and first principles thinking. I'm a big fan of the new wave of nomadic and remote work lifestyle. Plus, I love open-source culture in general.
+
+In my freetime I enjoy making music in Ableton, hiking and traveling.
