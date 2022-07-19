@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fofou&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=+hits&edge_flat=false)](https://hits.seeyoufarm.com) [![wakatime](https://wakatime.com/badge/user/5272a810-7eca-46d6-ae5c-e0a33012c5d9.svg)](https://wakatime.com/@5272a810-7eca-46d6-ae5c-e0a33012c5d9)
 
-# Hola, I'm Omar 👨🏻‍💻
+# Hola, I'm Omar 👨🏻
 
 I'm a Software Engineer by training, music producer and writer/editor. I consider myself a very creative person, I like to work in the intersection of tech and media. Currently, I'm passionate about applying tech, grit and creativity to create value for individuals and companies, plus having fun solving difficult problems along the way. I'm proficient with Full Stack Python (Django, Flask), AWS, Node.js, and React.js.
 
