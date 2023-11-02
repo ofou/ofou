@@ -6,4 +6,4 @@ I'm a Software Engineer (AI/ML) by training, and a [freelance](https://www.youtu
 
 I'm the founder of Nomad Top, a startup focused on creating a Universal Passport that allows individuals to live and work anywhere seamlessly. I'm also excited about Cognitive Science, with a strong focus on Artificial Intelligence, Machine Learning, and Brain-Computer Interfaces. I'm highly biased towards pragmatism, thinking outside-the-box, and first principles thinking.
 
-In my free time, I enjoy making music in Ableton, hiking, and traveling.
+In my free time, I enjoy [making music](https://open.spotify.com/artist/5e6x7QJXOGbkDEPpEOWm1w)https://open.spotify.com/artist/5e6x7QJXOGbkDEPpEOWm1w in Ableton, training, and traveling.
