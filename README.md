@@ -6,4 +6,4 @@ I'm a Software Engineer (AI/ML) by training, and a [freelance](https://www.youtu
 
 Currently, I'm working with LLMs to help students to get better at PAES (Chilean college entrance exam), and finetuning models to get better at teaching, and math reasoning skills. I'm also excited about Cognitive Science, with a strong focus on Artificial Intelligence, Social Learning, and Brain-Computer Interfaces. I'm highly biased towards pragmatism, thinking outside-the-box, and first principles thinking.
 
-In my free time, I enjoy [making music](https://open.spotify.com/artist/5e6x7QJXOGbkDEPpEOWm1w)https://open.spotify.com/artist/5e6x7QJXOGbkDEPpEOWm1w in Ableton, training, and traveling.
+In my free time, I enjoy [making music](https://open.spotify.com/artist/5e6x7QJXOGbkDEPpEOWm1w) in Ableton, training, and traveling.
