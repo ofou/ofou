@@ -2,6 +2,8 @@
 
 # Hola, I'm Omar 🚶🏻
 
-I'm a Software Engineer (AI/ML) by training, and a [freelance](https://www.youtube.com/watch?v=_MIEZSgQYHE) [content](https://www.youtube.com/watch?v=kFlLzFuslfQ) [creator](https://www.youtube.com/watch?v=ISa10TrJK7w&t=6s). Currently, I'm working with LLMs to help students to get better at PAES (Chilean college entrance exam), and fine-tunning models to get better at teaching itself, and math reasoning skills. I'm also excited about Cognitive Science, with a strong focus on Artificial Intelligence, Social Learning, and Brain-Computer Interfaces. I'm highly biased towards pragmatism, thinking outside-the-box, and first principles thinking.
+I'm a Software Engineer (AI/ML) by training, currently, I'm working as Artificial Intelligence Engineer at [Emergent Mind](https://www.emergentmind.com), we're building a platform to accelerate discovery and learning about the latest AI research. I'm also a [freelance](https://www.youtube.com/watch?v=_MIEZSgQYHE) [content](https://www.youtube.com/watch?v=kFlLzFuslfQ) [creator](https://www.youtube.com/watch?v=ISa10TrJK7w) enthusiastic about Cognitive Science, with a focus on AI, Learning, and Brain-Computer Interfaces. I did my thesis on tuning LLM models to get better at teaching itself, and math reasoning skills to ace the Chilean entrance exam (PAES).
 
-In my free time, I enjoy [making music](https://open.spotify.com/artist/5e6x7QJXOGbkDEPpEOWm1w) in Ableton, training, and traveling.
+I'm highly biased towards pragmatism, thinking outside-the-box, and first principles thinking. I consider myself as a product person, I like building, and finding creative engineering solutions that deliver actual value for companies and individuals.
+
+In my free time, I enjoy [making music](https://open.spotify.com/artist/5e6x7QJXOGbkDEPpEOWm1w) in Ableton, learning mandarin (你好！), and traveling.
