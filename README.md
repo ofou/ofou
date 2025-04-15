@@ -9,7 +9,3 @@ I did my thesis on fine-tuning LLMs to improve self-teaching and mathematical re
 I'm deeply biased toward pragmatism, thinking outside the box, and first-principles reasoning. I consider myself a product person at heart—I love building and discovering creative engineering solutions that deliver real value to both companies and individuals.
 
 In my free time, I enjoy [making music](https://open.spotify.com/artist/5e6x7QJXOGbkDEPpEOWm1w) in Ableton, learning Mandarin (你好！), and traveling.
-
----
-
-Let me know if you want to tweak the tone (more casual or more formal), or tailor it for a specific platform like LinkedIn or a personal website.
